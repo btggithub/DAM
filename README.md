@@ -102,6 +102,7 @@ npm install
 
 ```
 REACT_APP_API_URL=http://localhost:3000/api
+PORT=3001
 ```
 
 4. Start the frontend development server:
