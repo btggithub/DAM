@@ -3,6 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './App.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import axios from 'axios';
+
+// Set default base URL from environment variables
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://localhost:3000';
+axios.defaults.baseURL = 'http://localhost:3000';
+
+// Add token to requests if available on initial load
+const token = localStorage.getItem('token');
+if (token) {
+  axios.defaults.headers.common['Authorization'] = `Bearer ${token}`;
+}
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

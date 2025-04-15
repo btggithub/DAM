@@ -1,4 +1,4 @@
-// components/domains/DomainForm.js
+// frontend/components/domains/DomainForm.js
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useNavigate, useParams, Link } from 'react-router-dom';

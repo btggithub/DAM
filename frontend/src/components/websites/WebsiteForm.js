@@ -1,4 +1,4 @@
-// components/websites/WebsiteForm.js
+// frontend/components/websites/WebsiteForm.js
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useNavigate, useParams, Link } from 'react-router-dom';

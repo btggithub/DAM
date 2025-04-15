@@ -1,4 +1,4 @@
-// components/websites/WebsiteDetail.js
+// frontend/components/websites/WebsiteDetail.js
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useParams, Link, useNavigate } from 'react-router-dom';

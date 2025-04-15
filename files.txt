@@ -1,0 +1,173 @@
+ Volume in drive F is App Data Online Sync
+ Volume Serial Number is 2A89-3BE8
+
+ Directory of F:\newtech\DAM
+
+14-04-2025  17:13    <DIR>          .
+14-04-2025  17:13    <DIR>          ..
+09-04-2025  21:06               356 .gitignore
+14-04-2025  21:10    <DIR>          backend
+09-04-2025  21:16             3,382 database-schema.sql
+14-04-2025  21:13                 0 files.txt
+14-04-2025  21:11    <DIR>          frontend
+09-04-2025  21:20             5,449 README.md
+09-04-2025  21:23             2,545 TODO.md
+14-04-2025  17:12               251 tree.txt
+               6 File(s)         11,983 bytes
+ Directory of F:\newtech\DAM\backend
+
+14-04-2025  21:10    <DIR>          .
+14-04-2025  21:10    <DIR>          ..
+14-04-2025  17:53               442 .env
+14-04-2025  17:20    <DIR>          controllers
+14-04-2025  17:21    <DIR>          middleware
+14-04-2025  20:55            91,461 package-lock.json
+14-04-2025  17:48               852 package.json
+14-04-2025  17:21    <DIR>          routes
+14-04-2025  18:01            29,349 server.js
+14-04-2025  17:22    <DIR>          services
+               4 File(s)        122,104 bytes
+
+ Directory of F:\newtech\DAM\backend\controllers
+
+14-04-2025  17:20    <DIR>          .
+14-04-2025  17:20    <DIR>          ..
+14-04-2025  17:33            10,892 auth.controller.js
+               1 File(s)         10,892 bytes
+
+ Directory of F:\newtech\DAM\backend\middleware
+
+14-04-2025  17:21    <DIR>          .
+14-04-2025  17:21    <DIR>          ..
+14-04-2025  17:21             1,599 auth.middleware.js
+               1 File(s)          1,599 bytes
+
+ Directory of F:\newtech\DAM\backend\routes
+
+14-04-2025  17:21    <DIR>          .
+14-04-2025  17:21    <DIR>          ..
+14-04-2025  17:33             3,974 auth.routes.js
+               1 File(s)          3,974 bytes
+
+ Directory of F:\newtech\DAM\backend\services
+
+14-04-2025  17:22    <DIR>          .
+14-04-2025  17:22    <DIR>          ..
+14-04-2025  17:33             7,233 email.service.js
+14-04-2025  17:34             6,387 notification.scheduler.js
+               2 File(s)         13,620 bytes
+
+ Directory of F:\newtech\DAM\frontend
+
+14-04-2025  21:11    <DIR>          .
+14-04-2025  21:11    <DIR>          ..
+09-04-2025  21:03                54 .env
+14-04-2025  20:57           874,878 package-lock.json
+09-04-2025  20:32             1,008 package.json
+09-04-2025  20:35    <DIR>          public
+14-04-2025  21:06    <DIR>          src
+               3 File(s)        875,940 bytes
+
+ Directory of F:\newtech\DAM\frontend\public
+
+09-04-2025  20:35    <DIR>          .
+09-04-2025  20:35    <DIR>          ..
+09-04-2025  20:35             1,774 index.html
+09-04-2025  20:35               577 manifest.json
+               2 File(s)          2,351 bytes
+
+ Directory of F:\newtech\DAM\frontend\src
+
+14-04-2025  21:06    <DIR>          .
+14-04-2025  21:06    <DIR>          ..
+09-04-2025  19:47             5,654 App.css
+14-04-2025  17:35             4,839 App.js
+14-04-2025  21:08    <DIR>          components
+14-04-2025  21:06    <DIR>          contexts
+14-04-2025  17:35               915 index.js
+09-04-2025  20:34               399 reportWebVitals.js
+               4 File(s)         11,807 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components
+
+14-04-2025  21:08    <DIR>          .
+14-04-2025  21:08    <DIR>          ..
+14-04-2025  21:08    <DIR>          admin
+14-04-2025  21:07    <DIR>          auth
+14-04-2025  21:08    <DIR>          common
+09-04-2025  19:48             5,782 Dashboard.js
+09-04-2025  20:31    <DIR>          domains
+14-04-2025  17:36    <DIR>          Layout
+09-04-2025  20:14    <DIR>          providers
+14-04-2025  21:07    <DIR>          routing
+09-04-2025  20:23    <DIR>          websites
+               1 File(s)          5,782 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\admin
+
+14-04-2025  21:08    <DIR>          .
+14-04-2025  21:08    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\auth
+
+14-04-2025  21:07    <DIR>          .
+14-04-2025  21:07    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\common
+
+14-04-2025  21:08    <DIR>          .
+14-04-2025  21:08    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\domains
+
+09-04-2025  20:31    <DIR>          .
+09-04-2025  20:31    <DIR>          ..
+09-04-2025  20:17             7,811 DomainDetail.js
+09-04-2025  20:16             7,119 DomainForm.js
+09-04-2025  20:16             5,693 DomainList.js
+               3 File(s)         20,623 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\Layout
+
+14-04-2025  17:36    <DIR>          .
+14-04-2025  17:36    <DIR>          ..
+14-04-2025  17:36               708 Footer.js
+14-04-2025  17:36               876 NotFound.js
+               2 File(s)          1,584 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\providers
+
+09-04-2025  20:14    <DIR>          .
+09-04-2025  20:14    <DIR>          ..
+09-04-2025  20:20             9,314 ProviderDetail.js
+09-04-2025  19:50             5,791 ProviderForm.js
+09-04-2025  19:49             4,972 ProviderList.js
+               3 File(s)         20,077 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\routing
+
+14-04-2025  21:07    <DIR>          .
+14-04-2025  21:07    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\components\websites
+
+09-04-2025  20:23    <DIR>          .
+09-04-2025  20:23    <DIR>          ..
+09-04-2025  20:25             5,288 WebsiteDetail.js
+09-04-2025  20:22             6,560 WebsiteForm.js
+09-04-2025  20:27             4,874 WebsiteList.js
+               3 File(s)         16,722 bytes
+
+ Directory of F:\newtech\DAM\frontend\src\contexts
+
+14-04-2025  21:06    <DIR>          .
+14-04-2025  21:06    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+             122 File(s)      1,438,691 bytes
+             257 Dir(s)  102,512,431,104 bytes free

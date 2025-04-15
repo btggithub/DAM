@@ -1,4 +1,4 @@
-// components/providers/ProviderDetail.js
+// frontend/components/providers/ProviderDetail.js
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useParams, Link, useNavigate } from 'react-router-dom';
